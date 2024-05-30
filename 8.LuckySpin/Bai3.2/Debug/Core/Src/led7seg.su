@@ -1,0 +1,4 @@
+../Core/Src/led7seg.c:9:6:scanLED	32	static
+../Core/Src/led7seg.c:20:6:printLED	16	static
+../Core/Src/led7seg.c:28:6:printLEDCharWin	8	static
+../Core/Src/led7seg.c:36:6:printLEDCharLoss	8	static

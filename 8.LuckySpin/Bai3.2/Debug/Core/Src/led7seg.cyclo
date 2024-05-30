@@ -1,0 +1,4 @@
+../Core/Src/led7seg.c:9:6:scanLED	2
+../Core/Src/led7seg.c:20:6:printLED	1
+../Core/Src/led7seg.c:28:6:printLEDCharWin	1
+../Core/Src/led7seg.c:36:6:printLEDCharLoss	1
